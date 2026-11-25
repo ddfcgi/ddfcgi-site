@@ -5,8 +5,9 @@ same look, words and page addresses, and is maintained by Working Web Media.
 
 ## How it works
 
-- **The site** is plain HTML and CSS in `public/`, published by GitHub Pages (`.github/workflows/pages.yml`)
-  every time `public/` changes on `main`.
+- **The site** is plain HTML and CSS in `public/`. Every time `public/` changes on `main`,
+  `.github/workflows/pages.yml` copies it to the `gh-pages` branch, which GitHub Pages serves. Don't edit
+  `gh-pages` by hand; each run replaces it.
 - **The free consultation form** (`/free-analysis`) posts to a small Cloudflare Worker (`src/worker.js`,
   Worker "ddfcgi" in WWM's Cloudflare account), which passes each request to a Zapier workflow that emails it on.
   The Zapier address is a Worker secret (`CONSULTATION_WEBHOOK_URL`), never stored in this repo.

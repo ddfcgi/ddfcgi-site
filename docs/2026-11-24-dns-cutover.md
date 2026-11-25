@@ -23,9 +23,10 @@ ftp, _domainconnect, and the SMTP2GO sending records (em150580, link, s150580._d
 
 ## Cutover (www is the main address)
 
-1. GitHub: Settings > Pages > Source "GitHub Actions"; run the "Publish to GitHub Pages" workflow; custom domain
-   `www.ddfcgi.com` (verify the domain for the ddfcgi organization first: one TXT record,
-   `_github-pages-challenge-ddfcgi`).
+1. GitHub: Settings > Pages > Source "Deploy from a branch", branch `gh-pages`, folder `/ (root)`; custom domain
+   `www.ddfcgi.com`. (The "GitHub Actions" source returned a GitHub server error on Nov 25, so the site publishes
+   from the `gh-pages` branch, which `.github/workflows/pages.yml` rebuilds from `public/`.) Optional: verify the
+   domain for the ddfcgi organization with one TXT record, `_github-pages-challenge-ddfcgi`.
 2. GoDaddy, website records only:
    - Replace the four A records on `@` with GitHub Pages: 185.199.108.153, 185.199.109.153, 185.199.110.153,
      185.199.111.153.
