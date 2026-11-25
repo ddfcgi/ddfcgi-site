@@ -1,0 +1,40 @@
+name: Screenshot the live site (reference)
+
+# Full-page screenshots of the live Squarespace site into capture/screens/, to check the copy against.
+on:
+  workflow_dispatch:  # manual only: the one-time copy is done; ddfcgi.com no longer runs on Squarespace
+
+permissions:
+  contents: write
+
+concurrency:
+  group: capture-push
+  cancel-in-progress: false
+
+jobs:
+  screenshots:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Install Playwright
+        run: |
+          pip install playwright==1.48.0
+          python -m playwright install --with-deps chromium
+      - name: Take screenshots
+        run: python3 tools/screenshot_live.py
+      - name: Commit the screenshots
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add capture/screens
+          if git diff --cached --quiet; then
+            echo "Nothing new to commit"
+          else
+            git commit -m "Screenshot the live Squarespace site"
+            git pull --rebase
+            git push
+          fi

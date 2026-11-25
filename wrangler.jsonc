@@ -1,0 +1,25 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "ddfcgi",
+  "main": "src/worker.js",
+  "compatibility_date": "2026-11-01",
+  // The workers.dev address must stay on: the form on www.ddfcgi.com (GitHub Pages) posts to
+  // https://ddfcgi.wwm-031.workers.dev/api/consultation, and it doubles as the test link.
+  "workers_dev": true,
+  // Preview URLs on (Greg, Nov 2026): every branch gets its own review link on workers.dev.
+  // public/_headers marks workers.dev copies noindex so they never compete with the real site.
+  "preview_urls": true,
+  // Cloudflare's branch builds run `wrangler preview`, which needs this block (empty is fine).
+  "previews": {},
+  "assets": {
+    "directory": "./public",
+    "binding": "ASSETS",
+    // Unknown addresses get public/404.html with a real 404 status.
+    "not_found_handling": "404-page",
+    // Only the form endpoint runs code; every other request is a static file.
+    "run_worker_first": ["/api/*"]
+  },
+  // The Zapier catch hook lives in a Worker secret, CONSULTATION_WEBHOOK_URL, set in the Cloudflare
+  // dashboard (Worker "ddfcgi" > Settings > Variables and Secrets). This repo is public, so it never goes here.
+  "observability": { "enabled": true }
+}

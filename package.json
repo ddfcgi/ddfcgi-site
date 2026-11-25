@@ -1,0 +1,16 @@
+{
+  "name": "ddfcgi-site",
+  "private": true,
+  "description": "ddfcgi.com (DDF Consulting Group): static HTML/CSS on GitHub Pages, form Worker and test link on Cloudflare",
+  "scripts": {
+    "images": "python3 tools/build_images.py",
+    "build": "python3 tools/build_site.py",
+    "dev": "wrangler dev",
+    "deploy": "wrangler deploy"
+  },
+  "devDependencies": {
+    "@fontsource/poppins": "5.3.0",
+    "@fontsource/rubik": "5.3.0",
+    "wrangler": "^4.0.0"
+  }
+}

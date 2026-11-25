@@ -1,0 +1,18 @@
+{
+ "http://sp2018tnj6dwj.wpengine.com/wp-content/uploads/Adjusted-Invoice-Amount.jpg": {
+  "page": "https://www.ddfcgi.com/resources/how-do-i-apply-a-credit-against-an-invoice-in-accounts-payable-in-sage-100-erp",
+  "status": 404
+ },
+ "http://sp2018tnj6dwj.wpengine.com/wp-content/uploads/sage-payments-outage.jpg": {
+  "page": "https://www.ddfcgi.com/resources/sage-payment-services-outage",
+  "status": 404
+ },
+ "https://images.squarespace-cdn.com": {
+  "page": "https://www.ddfcgi.com/home",
+  "status": 200
+ },
+ "https://images.squarespace-cdn.com/content/v2/namespaces/memberAccountAvatars/libraries/520cdf14e4b01247d7137b6b/837faedf4d934c848d2f4fdf3ab197fd/837faedf4d934c848d2f4fdf3ab197fd.jpeg": {
+  "page": "https://www.ddfcgi.com/resources",
+  "status": 404
+ }
+}

@@ -1,0 +1,997 @@
+{
+ "/home": {
+  "path": "/home",
+  "status": 200,
+  "html": "pages/home.html",
+  "json": "pages/home.json"
+ },
+ "/resources": {
+  "path": "/resources",
+  "status": 200,
+  "html": "pages/resources.html",
+  "json": "pages/resources.json"
+ },
+ "/resources/sage-100-webinar-year-end-2015": {
+  "path": "/resources/sage-100-webinar-year-end-2015",
+  "status": 200,
+  "html": "pages/resources_sage-100-webinar-year-end-2015.html",
+  "json": "pages/resources_sage-100-webinar-year-end-2015.json"
+ },
+ "/resources/2014-year-end-sage-100-erp-video": {
+  "path": "/resources/2014-year-end-sage-100-erp-video",
+  "status": 200,
+  "html": "pages/resources_2014-year-end-sage-100-erp-video.html",
+  "json": "pages/resources_2014-year-end-sage-100-erp-video.json"
+ },
+ "/resources/dsd-maintenance": {
+  "path": "/resources/dsd-maintenance",
+  "status": 200,
+  "html": "pages/resources_dsd-maintenance.html",
+  "json": "pages/resources_dsd-maintenance.json"
+ },
+ "/resources/ap-paperless-remittance": {
+  "path": "/resources/ap-paperless-remittance",
+  "status": 200,
+  "html": "pages/resources_ap-paperless-remittance.html",
+  "json": "pages/resources_ap-paperless-remittance.json"
+ },
+ "/resources/keyboard-shortcuts-in-sage-100-erp": {
+  "path": "/resources/keyboard-shortcuts-in-sage-100-erp",
+  "status": 200,
+  "html": "pages/resources_keyboard-shortcuts-in-sage-100-erp.html",
+  "json": "pages/resources_keyboard-shortcuts-in-sage-100-erp.json"
+ },
+ "/resources/speed-up-opening-crystal-reports-2011-in-sage-100-erp-2013": {
+  "path": "/resources/speed-up-opening-crystal-reports-2011-in-sage-100-erp-2013",
+  "status": 200,
+  "html": "pages/resources_speed-up-opening-crystal-reports-2011-in-sage-100-erp-2013.html",
+  "json": "pages/resources_speed-up-opening-crystal-reports-2011-in-sage-100-erp-2013.json"
+ },
+ "/resources/sales-order-warehouse-code-apply-change-from-header-to-lines-in-sage-100": {
+  "path": "/resources/sales-order-warehouse-code-apply-change-from-header-to-lines-in-sage-100",
+  "status": 200,
+  "html": "pages/resources_sales-order-warehouse-code-apply-change-from-header-to-lines-in-sage-100.html",
+  "json": "pages/resources_sales-order-warehouse-code-apply-change-from-header-to-lines-in-sage-100.json"
+ },
+ "/resources/open-file-security-warning-opening-sage-100-erp": {
+  "path": "/resources/open-file-security-warning-opening-sage-100-erp",
+  "status": 200,
+  "html": "pages/resources_open-file-security-warning-opening-sage-100-erp.html",
+  "json": "pages/resources_open-file-security-warning-opening-sage-100-erp.json"
+ },
+ "/resources/how-to-use-the-sage-100-erp-ale-to-create-an-ad-hoc-report": {
+  "path": "/resources/how-to-use-the-sage-100-erp-ale-to-create-an-ad-hoc-report",
+  "status": 200,
+  "html": "pages/resources_how-to-use-the-sage-100-erp-ale-to-create-an-ad-hoc-report.html",
+  "json": "pages/resources_how-to-use-the-sage-100-erp-ale-to-create-an-ad-hoc-report.json"
+ },
+ "/resources/learn-about-sage-100-erp-automated-sales-tax": {
+  "path": "/resources/learn-about-sage-100-erp-automated-sales-tax",
+  "status": 200,
+  "html": "pages/resources_learn-about-sage-100-erp-automated-sales-tax.html",
+  "json": "pages/resources_learn-about-sage-100-erp-automated-sales-tax.json"
+ },
+ "/resources/health-insurance-reporting": {
+  "path": "/resources/health-insurance-reporting",
+  "status": 200,
+  "html": "pages/resources_health-insurance-reporting.html",
+  "json": "pages/resources_health-insurance-reporting.json"
+ },
+ "/resources/how-do-i-apply-a-credit-against-an-invoice-in-accounts-payable-in-sage-100-erp": {
+  "path": "/resources/how-do-i-apply-a-credit-against-an-invoice-in-accounts-payable-in-sage-100-erp",
+  "status": 200,
+  "html": "pages/resources_how-do-i-apply-a-credit-against-an-invoice-in-accounts-payable-in-sage-100-erp.html",
+  "json": "pages/resources_how-do-i-apply-a-credit-against-an-invoice-in-accounts-payable-in-sage-100-erp.json"
+ },
+ "/resources/efiling-sage100": {
+  "path": "/resources/efiling-sage100",
+  "status": 200,
+  "html": "pages/resources_efiling-sage100.html",
+  "json": "pages/resources_efiling-sage100.json"
+ },
+ "/resources/selling-on-the-amazon-marketplace-using-sage-100-erp": {
+  "path": "/resources/selling-on-the-amazon-marketplace-using-sage-100-erp",
+  "status": 200,
+  "html": "pages/resources_selling-on-the-amazon-marketplace-using-sage-100-erp.html",
+  "json": "pages/resources_selling-on-the-amazon-marketplace-using-sage-100-erp.json"
+ },
+ "/resources/webinar-series-for-2013": {
+  "path": "/resources/webinar-series-for-2013",
+  "status": 200,
+  "html": "pages/resources_webinar-series-for-2013.html",
+  "json": "pages/resources_webinar-series-for-2013.json"
+ },
+ "/resources/password-ts": {
+  "path": "/resources/password-ts",
+  "status": 200,
+  "html": "pages/resources_password-ts.html",
+  "json": "pages/resources_password-ts.json"
+ },
+ "/resources/replace-lost-pr-check-easy": {
+  "path": "/resources/replace-lost-pr-check-easy",
+  "status": 200,
+  "html": "pages/resources_replace-lost-pr-check-easy.html",
+  "json": "pages/resources_replace-lost-pr-check-easy.json"
+ },
+ "/resources/2013-941-fix-poste": {
+  "path": "/resources/2013-941-fix-poste",
+  "status": 200,
+  "html": "pages/resources_2013-941-fix-poste.html",
+  "json": "pages/resources_2013-941-fix-poste.json"
+ },
+ "/resources/sage-100-941-update-for-2013-has-been-released-and-printing-issues": {
+  "path": "/resources/sage-100-941-update-for-2013-has-been-released-and-printing-issues",
+  "status": 200,
+  "html": "pages/resources_sage-100-941-update-for-2013-has-been-released-and-printing-issues.html",
+  "json": "pages/resources_sage-100-941-update-for-2013-has-been-released-and-printing-issues.json"
+ },
+ "/resources/sage-payment-services-outage": {
+  "path": "/resources/sage-payment-services-outage",
+  "status": 200,
+  "html": "pages/resources_sage-payment-services-outage.html",
+  "json": "pages/resources_sage-payment-services-outage.json"
+ },
+ "/resources/how-to-track-reconcile-credit-cards-using-bank-rec-in-sage-erp-100-fka-mas-90-200": {
+  "path": "/resources/how-to-track-reconcile-credit-cards-using-bank-rec-in-sage-erp-100-fka-mas-90-200",
+  "status": 200,
+  "html": "pages/resources_how-to-track-reconcile-credit-cards-using-bank-rec-in-sage-erp-100-fka-mas-90-200.html",
+  "json": "pages/resources_how-to-track-reconcile-credit-cards-using-bank-rec-in-sage-erp-100-fka-mas-90-200.json"
+ },
+ "/resources/budget-write-back-in-f9": {
+  "path": "/resources/budget-write-back-in-f9",
+  "status": 200,
+  "html": "pages/resources_budget-write-back-in-f9.html",
+  "json": "pages/resources_budget-write-back-in-f9.json"
+ },
+ "/resources/sage-mas-intelligence-demo-video": {
+  "path": "/resources/sage-mas-intelligence-demo-video",
+  "status": 200,
+  "html": "pages/resources_sage-mas-intelligence-demo-video.html",
+  "json": "pages/resources_sage-mas-intelligence-demo-video.json"
+ },
+ "/resources/how-can-i-update-all-of-my-customers-addresses-to-be-uppercase-in-sage-mas-90-or-mas-200": {
+  "path": "/resources/how-can-i-update-all-of-my-customers-addresses-to-be-uppercase-in-sage-mas-90-or-mas-200",
+  "status": 200,
+  "html": "pages/resources_how-can-i-update-all-of-my-customers-addresses-to-be-uppercase-in-sage-mas-90-or-mas-200.html",
+  "json": "pages/resources_how-can-i-update-all-of-my-customers-addresses-to-be-uppercase-in-sage-mas-90-or-mas-200.json"
+ },
+ "/resources/sage-summit-virtual-event-registration": {
+  "path": "/resources/sage-summit-virtual-event-registration",
+  "status": 200,
+  "html": "pages/resources_sage-summit-virtual-event-registration.html",
+  "json": "pages/resources_sage-summit-virtual-event-registration.json"
+ },
+ "/resources/post-bank-rec-in-gl": {
+  "path": "/resources/post-bank-rec-in-gl",
+  "status": 200,
+  "html": "pages/resources_post-bank-rec-in-gl.html",
+  "json": "pages/resources_post-bank-rec-in-gl.json"
+ },
+ "/resources/where-can-i-find-mas-90-200-manuals": {
+  "path": "/resources/where-can-i-find-mas-90-200-manuals",
+  "status": 200,
+  "html": "pages/resources_where-can-i-find-mas-90-200-manuals.html",
+  "json": "pages/resources_where-can-i-find-mas-90-200-manuals.json"
+ },
+ "/resources/free-and-less-expensive-ways-to-get-help-with-sage-mas-90-mas-200": {
+  "path": "/resources/free-and-less-expensive-ways-to-get-help-with-sage-mas-90-mas-200",
+  "status": 200,
+  "html": "pages/resources_free-and-less-expensive-ways-to-get-help-with-sage-mas-90-mas-200.html",
+  "json": "pages/resources_free-and-less-expensive-ways-to-get-help-with-sage-mas-90-mas-200.json"
+ },
+ "/resources/standard-boilerplate-on-forms-mas90": {
+  "path": "/resources/standard-boilerplate-on-forms-mas90",
+  "status": 200,
+  "html": "pages/resources_standard-boilerplate-on-forms-mas90.html",
+  "json": "pages/resources_standard-boilerplate-on-forms-mas90.json"
+ },
+ "/resources/how-to-write-a-check-for-my-customers-credit-balance-in-mas-90200": {
+  "path": "/resources/how-to-write-a-check-for-my-customers-credit-balance-in-mas-90200",
+  "status": 200,
+  "html": "pages/resources_how-to-write-a-check-for-my-customers-credit-balance-in-mas-90200.html",
+  "json": "pages/resources_how-to-write-a-check-for-my-customers-credit-balance-in-mas-90200.json"
+ },
+ "/resources/bank-transfers-in-20-steps-or-less-and-im-hoping-for-less": {
+  "path": "/resources/bank-transfers-in-20-steps-or-less-and-im-hoping-for-less",
+  "status": 200,
+  "html": "pages/resources_bank-transfers-in-20-steps-or-less-and-im-hoping-for-less.html",
+  "json": "pages/resources_bank-transfers-in-20-steps-or-less-and-im-hoping-for-less.json"
+ },
+ "/resources/new-pci-dss-requirements": {
+  "path": "/resources/new-pci-dss-requirements",
+  "status": 200,
+  "html": "pages/resources_new-pci-dss-requirements.html",
+  "json": "pages/resources_new-pci-dss-requirements.json"
+ },
+ "/resources/sage-is-now-offering-up-to-15-off-multi-year-maintenance-plans": {
+  "path": "/resources/sage-is-now-offering-up-to-15-off-multi-year-maintenance-plans",
+  "status": 200,
+  "html": "pages/resources_sage-is-now-offering-up-to-15-off-multi-year-maintenance-plans.html",
+  "json": "pages/resources_sage-is-now-offering-up-to-15-off-multi-year-maintenance-plans.json"
+ },
+ "/resources/sage-mas-90200-the-road-ahead": {
+  "path": "/resources/sage-mas-90200-the-road-ahead",
+  "status": 200,
+  "html": "pages/resources_sage-mas-90200-the-road-ahead.html",
+  "json": "pages/resources_sage-mas-90200-the-road-ahead.json"
+ },
+ "/resources/category/Sage+MAS+90%2F200": {
+  "path": "/resources/category/Sage+MAS+90%2F200",
+  "status": 200,
+  "html": "pages/resources_category_Sage_MAS_90_200.html",
+  "json": "pages/resources_category_Sage_MAS_90_200.json"
+ },
+ "/resources/category/Sage+100+ERP": {
+  "path": "/resources/category/Sage+100+ERP",
+  "status": 200,
+  "html": "pages/resources_category_Sage_100_ERP.html",
+  "json": "pages/resources_category_Sage_100_ERP.json"
+ },
+ "/resources/category/featured": {
+  "path": "/resources/category/featured",
+  "status": 200,
+  "html": "pages/resources_category_featured.html",
+  "json": "pages/resources_category_featured.json"
+ },
+ "/resources/category/Year+End": {
+  "path": "/resources/category/Year+End",
+  "status": 200,
+  "html": "pages/resources_category_Year_End.html",
+  "json": "pages/resources_category_Year_End.json"
+ },
+ "/resources/category/Terminal+Services": {
+  "path": "/resources/category/Terminal+Services",
+  "status": 200,
+  "html": "pages/resources_category_Terminal_Services.html",
+  "json": "pages/resources_category_Terminal_Services.json"
+ },
+ "/resources/category/Scripts": {
+  "path": "/resources/category/Scripts",
+  "status": 200,
+  "html": "pages/resources_category_Scripts.html",
+  "json": "pages/resources_category_Scripts.json"
+ },
+ "/resources/category/Popular": {
+  "path": "/resources/category/Popular",
+  "status": 200,
+  "html": "pages/resources_category_Popular.html",
+  "json": "pages/resources_category_Popular.json"
+ },
+ "/resources/category/Crystal+Reports": {
+  "path": "/resources/category/Crystal+Reports",
+  "status": 200,
+  "html": "pages/resources_category_Crystal_Reports.html",
+  "json": "pages/resources_category_Crystal_Reports.json"
+ },
+ "/resources/category/Uncategorized": {
+  "path": "/resources/category/Uncategorized",
+  "status": 200,
+  "html": "pages/resources_category_Uncategorized.html",
+  "json": "pages/resources_category_Uncategorized.json"
+ },
+ "/resources/category/Hidden+Utilities": {
+  "path": "/resources/category/Hidden+Utilities",
+  "status": 200,
+  "html": "pages/resources_category_Hidden_Utilities.html",
+  "json": "pages/resources_category_Hidden_Utilities.json"
+ },
+ "/resources/category/blog": {
+  "path": "/resources/category/blog",
+  "status": 200,
+  "html": "pages/resources_category_blog.html",
+  "json": "pages/resources_category_blog.json"
+ },
+ "/resources/category/New+Features": {
+  "path": "/resources/category/New+Features",
+  "status": 200,
+  "html": "pages/resources_category_New_Features.html",
+  "json": "pages/resources_category_New_Features.json"
+ },
+ "/resources/category/Sage+Credit+Card+Proce...": {
+  "path": "/resources/category/Sage+Credit+Card+Proce...",
+  "status": 200,
+  "html": "pages/resources_category_Sage_Credit_Card_Proce....html",
+  "json": "pages/resources_category_Sage_Credit_Card_Proce....json"
+ },
+ "/resources/category/Recent": {
+  "path": "/resources/category/Recent",
+  "status": 200,
+  "html": "pages/resources_category_Recent.html",
+  "json": "pages/resources_category_Recent.json"
+ },
+ "/resources/category/Third+Party+Enhancements": {
+  "path": "/resources/category/Third+Party+Enhancements",
+  "status": 200,
+  "html": "pages/resources_category_Third_Party_Enhancements.html",
+  "json": "pages/resources_category_Third_Party_Enhancements.json"
+ },
+ "/resources/category/Bug": {
+  "path": "/resources/category/Bug",
+  "status": 200,
+  "html": "pages/resources_category_Bug.html",
+  "json": "pages/resources_category_Bug.json"
+ },
+ "/resources/category/Webinars": {
+  "path": "/resources/category/Webinars",
+  "status": 200,
+  "html": "pages/resources_category_Webinars.html",
+  "json": "pages/resources_category_Webinars.json"
+ },
+ "/resources/category/Sage+MAS+90%2F200+Tips": {
+  "path": "/resources/category/Sage+MAS+90%2F200+Tips",
+  "status": 200,
+  "html": "pages/resources_category_Sage_MAS_90_200_Tips.html",
+  "json": "pages/resources_category_Sage_MAS_90_200_Tips.json"
+ },
+ "/resources/category/Shortcuts": {
+  "path": "/resources/category/Shortcuts",
+  "status": 200,
+  "html": "pages/resources_category_Shortcuts.html",
+  "json": "pages/resources_category_Shortcuts.json"
+ },
+ "/resources/category/Hardware": {
+  "path": "/resources/category/Hardware",
+  "status": 200,
+  "html": "pages/resources_category_Hardware.html",
+  "json": "pages/resources_category_Hardware.json"
+ },
+ "/resources/category/DSD+Business+Systems": {
+  "path": "/resources/category/DSD+Business+Systems",
+  "status": 200,
+  "html": "pages/resources_category_DSD_Business_Systems.html",
+  "json": "pages/resources_category_DSD_Business_Systems.json"
+ },
+ "/resources/category/Demos": {
+  "path": "/resources/category/Demos",
+  "status": 200,
+  "html": "pages/resources_category_Demos.html",
+  "json": "pages/resources_category_Demos.json"
+ },
+ "/resources/tag/Sage+100": {
+  "path": "/resources/tag/Sage+100",
+  "status": 200,
+  "html": "pages/resources_tag_Sage_100.html",
+  "json": "pages/resources_tag_Sage_100.json"
+ },
+ "/resources/tag/Year+End": {
+  "path": "/resources/tag/Year+End",
+  "status": 200,
+  "html": "pages/resources_tag_Year_End.html",
+  "json": "pages/resources_tag_Year_End.json"
+ },
+ "/resources/tag/Compliance": {
+  "path": "/resources/tag/Compliance",
+  "status": 200,
+  "html": "pages/resources_tag_Compliance.html",
+  "json": "pages/resources_tag_Compliance.json"
+ },
+ "/resources/tag/MAS+90%2F200": {
+  "path": "/resources/tag/MAS+90%2F200",
+  "status": 200,
+  "html": "pages/resources_tag_MAS_90_200.html",
+  "json": "pages/resources_tag_MAS_90_200.json"
+ },
+ "/resources/tag/MAS+90": {
+  "path": "/resources/tag/MAS+90",
+  "status": 200,
+  "html": "pages/resources_tag_MAS_90.html",
+  "json": "pages/resources_tag_MAS_90.json"
+ },
+ "/resources/tag/EDI": {
+  "path": "/resources/tag/EDI",
+  "status": 200,
+  "html": "pages/resources_tag_EDI.html",
+  "json": "pages/resources_tag_EDI.json"
+ },
+ "/resources/tag/MAS200": {
+  "path": "/resources/tag/MAS200",
+  "status": 200,
+  "html": "pages/resources_tag_MAS200.html",
+  "json": "pages/resources_tag_MAS200.json"
+ },
+ "/resources/tag/Robert+Wood": {
+  "path": "/resources/tag/Robert+Wood",
+  "status": 200,
+  "html": "pages/resources_tag_Robert_Wood.html",
+  "json": "pages/resources_tag_Robert_Wood.json"
+ },
+ "/resources/tag/Sage+MAS+Intelligence": {
+  "path": "/resources/tag/Sage+MAS+Intelligence",
+  "status": 200,
+  "html": "pages/resources_tag_Sage_MAS_Intelligence.html",
+  "json": "pages/resources_tag_Sage_MAS_Intelligence.json"
+ },
+ "/resources/tag/Training": {
+  "path": "/resources/tag/Training",
+  "status": 200,
+  "html": "pages/resources_tag_Training.html",
+  "json": "pages/resources_tag_Training.json"
+ },
+ "/resources/tag/90Minds": {
+  "path": "/resources/tag/90Minds",
+  "status": 200,
+  "html": "pages/resources_tag_90Minds.html",
+  "json": "pages/resources_tag_90Minds.json"
+ },
+ "/resources/tag/Enhacements": {
+  "path": "/resources/tag/Enhacements",
+  "status": 200,
+  "html": "pages/resources_tag_Enhacements.html",
+  "json": "pages/resources_tag_Enhacements.json"
+ },
+ "/resources/tag/Voiding+Checks": {
+  "path": "/resources/tag/Voiding+Checks",
+  "status": 200,
+  "html": "pages/resources_tag_Voiding_Checks.html",
+  "json": "pages/resources_tag_Voiding_Checks.json"
+ },
+ "/resources/tag/Education": {
+  "path": "/resources/tag/Education",
+  "status": 200,
+  "html": "pages/resources_tag_Education.html",
+  "json": "pages/resources_tag_Education.json"
+ },
+ "/resources/tag/Amazon+Marketplace": {
+  "path": "/resources/tag/Amazon+Marketplace",
+  "status": 200,
+  "html": "pages/resources_tag_Amazon_Marketplace.html",
+  "json": "pages/resources_tag_Amazon_Marketplace.json"
+ },
+ "/resources/tag/SPS": {
+  "path": "/resources/tag/SPS",
+  "status": 200,
+  "html": "pages/resources_tag_SPS.html",
+  "json": "pages/resources_tag_SPS.json"
+ },
+ "/resources/tag/MAS+200": {
+  "path": "/resources/tag/MAS+200",
+  "status": 200,
+  "html": "pages/resources_tag_MAS_200.html",
+  "json": "pages/resources_tag_MAS_200.json"
+ },
+ "/resources/tag/Lookup": {
+  "path": "/resources/tag/Lookup",
+  "status": 200,
+  "html": "pages/resources_tag_Lookup.html",
+  "json": "pages/resources_tag_Lookup.json"
+ },
+ "/resources/tag/Sage+Payment+Services": {
+  "path": "/resources/tag/Sage+Payment+Services",
+  "status": 200,
+  "html": "pages/resources_tag_Sage_Payment_Services.html",
+  "json": "pages/resources_tag_Sage_Payment_Services.json"
+ },
+ "/resources/tag/Paperless+Office": {
+  "path": "/resources/tag/Paperless+Office",
+  "status": 200,
+  "html": "pages/resources_tag_Paperless_Office.html",
+  "json": "pages/resources_tag_Paperless_Office.json"
+ },
+ "/resources/tag/Demo": {
+  "path": "/resources/tag/Demo",
+  "status": 200,
+  "html": "pages/resources_tag_Demo.html",
+  "json": "pages/resources_tag_Demo.json"
+ },
+ "/resources/tag/refunding+a+credit+in+mas90": {
+  "path": "/resources/tag/refunding+a+credit+in+mas90",
+  "status": 200,
+  "html": "pages/resources_tag_refunding_a_credit_in_mas90.html",
+  "json": "pages/resources_tag_refunding_a_credit_in_mas90.json"
+ },
+ "/resources/tag/Hurricanes": {
+  "path": "/resources/tag/Hurricanes",
+  "status": 200,
+  "html": "pages/resources_tag_Hurricanes.html",
+  "json": "pages/resources_tag_Hurricanes.json"
+ },
+ "/resources/tag/Accounts+Receivable": {
+  "path": "/resources/tag/Accounts+Receivable",
+  "status": 200,
+  "html": "pages/resources_tag_Accounts_Receivable.html",
+  "json": "pages/resources_tag_Accounts_Receivable.json"
+ },
+ "/resources/tag/Maintenance": {
+  "path": "/resources/tag/Maintenance",
+  "status": 200,
+  "html": "pages/resources_tag_Maintenance.html",
+  "json": "pages/resources_tag_Maintenance.json"
+ },
+ "/resources/tag/Florida": {
+  "path": "/resources/tag/Florida",
+  "status": 200,
+  "html": "pages/resources_tag_Florida.html",
+  "json": "pages/resources_tag_Florida.json"
+ },
+ "/resources/tag/Extended+Solutions": {
+  "path": "/resources/tag/Extended+Solutions",
+  "status": 200,
+  "html": "pages/resources_tag_Extended_Solutions.html",
+  "json": "pages/resources_tag_Extended_Solutions.json"
+ },
+ "/resources/tag/F2": {
+  "path": "/resources/tag/F2",
+  "status": 200,
+  "html": "pages/resources_tag_F2.html",
+  "json": "pages/resources_tag_F2.json"
+ },
+ "/resources/tag/SMI": {
+  "path": "/resources/tag/SMI",
+  "status": 200,
+  "html": "pages/resources_tag_SMI.html",
+  "json": "pages/resources_tag_SMI.json"
+ },
+ "/resources/tag/AP": {
+  "path": "/resources/tag/AP",
+  "status": 200,
+  "html": "pages/resources_tag_AP.html",
+  "json": "pages/resources_tag_AP.json"
+ },
+ "/resources/tag/Accounts+Payable": {
+  "path": "/resources/tag/Accounts+Payable",
+  "status": 200,
+  "html": "pages/resources_tag_Accounts_Payable.html",
+  "json": "pages/resources_tag_Accounts_Payable.json"
+ },
+ "/resources/tag/AR": {
+  "path": "/resources/tag/AR",
+  "status": 200,
+  "html": "pages/resources_tag_AR.html",
+  "json": "pages/resources_tag_AR.json"
+ },
+ "/resources/tag/Purchase+Orders": {
+  "path": "/resources/tag/Purchase+Orders",
+  "status": 200,
+  "html": "pages/resources_tag_Purchase_Orders.html",
+  "json": "pages/resources_tag_Purchase_Orders.json"
+ },
+ "/resources/tag/EES": {
+  "path": "/resources/tag/EES",
+  "status": 200,
+  "html": "pages/resources_tag_EES.html",
+  "json": "pages/resources_tag_EES.json"
+ },
+ "/resources/tag/941+Patches": {
+  "path": "/resources/tag/941+Patches",
+  "status": 200,
+  "html": "pages/resources_tag_941_Patches.html",
+  "json": "pages/resources_tag_941_Patches.json"
+ },
+ "/resources/tag/F9": {
+  "path": "/resources/tag/F9",
+  "status": 200,
+  "html": "pages/resources_tag_F9.html",
+  "json": "pages/resources_tag_F9.json"
+ },
+ "/resources/tag/Taxes": {
+  "path": "/resources/tag/Taxes",
+  "status": 200,
+  "html": "pages/resources_tag_Taxes.html",
+  "json": "pages/resources_tag_Taxes.json"
+ },
+ "/resources/tag/Volume": {
+  "path": "/resources/tag/Volume",
+  "status": 200,
+  "html": "pages/resources_tag_Volume.html",
+  "json": "pages/resources_tag_Volume.json"
+ },
+ "/resources/tag/Sales+Tax": {
+  "path": "/resources/tag/Sales+Tax",
+  "status": 200,
+  "html": "pages/resources_tag_Sales_Tax.html",
+  "json": "pages/resources_tag_Sales_Tax.json"
+ },
+ "/resources/tag/W2": {
+  "path": "/resources/tag/W2",
+  "status": 200,
+  "html": "pages/resources_tag_W2.html",
+  "json": "pages/resources_tag_W2.json"
+ },
+ "/resources/tag/Amazon": {
+  "path": "/resources/tag/Amazon",
+  "status": 200,
+  "html": "pages/resources_tag_Amazon.html",
+  "json": "pages/resources_tag_Amazon.json"
+ },
+ "/resources/tag/Inventory": {
+  "path": "/resources/tag/Inventory",
+  "status": 200,
+  "html": "pages/resources_tag_Inventory.html",
+  "json": "pages/resources_tag_Inventory.json"
+ },
+ "/resources/tag/MAS": {
+  "path": "/resources/tag/MAS",
+  "status": 200,
+  "html": "pages/resources_tag_MAS.html",
+  "json": "pages/resources_tag_MAS.json"
+ },
+ "/resources/tag/Crystal": {
+  "path": "/resources/tag/Crystal",
+  "status": 200,
+  "html": "pages/resources_tag_Crystal.html",
+  "json": "pages/resources_tag_Crystal.json"
+ },
+ "/resources/tag/ERP": {
+  "path": "/resources/tag/ERP",
+  "status": 200,
+  "html": "pages/resources_tag_ERP.html",
+  "json": "pages/resources_tag_ERP.json"
+ },
+ "/resources/tag/Financial+Reporting": {
+  "path": "/resources/tag/Financial+Reporting",
+  "status": 200,
+  "html": "pages/resources_tag_Financial_Reporting.html",
+  "json": "pages/resources_tag_Financial_Reporting.json"
+ },
+ "/resources/tag/Help": {
+  "path": "/resources/tag/Help",
+  "status": 200,
+  "html": "pages/resources_tag_Help.html",
+  "json": "pages/resources_tag_Help.json"
+ },
+ "/resources/tag/Terminal+Services": {
+  "path": "/resources/tag/Terminal+Services",
+  "status": 200,
+  "html": "pages/resources_tag_Terminal_Services.html",
+  "json": "pages/resources_tag_Terminal_Services.json"
+ },
+ "/resources/tag/Crystal+Reports+2011": {
+  "path": "/resources/tag/Crystal+Reports+2011",
+  "status": 200,
+  "html": "pages/resources_tag_Crystal_Reports_2011.html",
+  "json": "pages/resources_tag_Crystal_Reports_2011.json"
+ },
+ "/resources/tag/Sage+100+ERP+2013": {
+  "path": "/resources/tag/Sage+100+ERP+2013",
+  "status": 200,
+  "html": "pages/resources_tag_Sage_100_ERP_2013.html",
+  "json": "pages/resources_tag_Sage_100_ERP_2013.json"
+ },
+ "/resources/tag/Sage+Credit+Card+Processing": {
+  "path": "/resources/tag/Sage+Credit+Card+Processing",
+  "status": 200,
+  "html": "pages/resources_tag_Sage_Credit_Card_Processing.html",
+  "json": "pages/resources_tag_Sage_Credit_Card_Processing.json"
+ },
+ "/resources/tag/FL": {
+  "path": "/resources/tag/FL",
+  "status": 200,
+  "html": "pages/resources_tag_FL.html",
+  "json": "pages/resources_tag_FL.json"
+ },
+ "/resources/tag/Manuals": {
+  "path": "/resources/tag/Manuals",
+  "status": 200,
+  "html": "pages/resources_tag_Manuals.html",
+  "json": "pages/resources_tag_Manuals.json"
+ },
+ "/resources/tag/Sage+Software": {
+  "path": "/resources/tag/Sage+Software",
+  "status": 200,
+  "html": "pages/resources_tag_Sage_Software.html",
+  "json": "pages/resources_tag_Sage_Software.json"
+ },
+ "/resources/tag/Avalara": {
+  "path": "/resources/tag/Avalara",
+  "status": 200,
+  "html": "pages/resources_tag_Avalara.html",
+  "json": "pages/resources_tag_Avalara.json"
+ },
+ "/resources/tag/Free+Resources": {
+  "path": "/resources/tag/Free+Resources",
+  "status": 200,
+  "html": "pages/resources_tag_Free_Resources.html",
+  "json": "pages/resources_tag_Free_Resources.json"
+ },
+ "/resources/tag/Hidden+Utilities": {
+  "path": "/resources/tag/Hidden+Utilities",
+  "status": 200,
+  "html": "pages/resources_tag_Hidden_Utilities.html",
+  "json": "pages/resources_tag_Hidden_Utilities.json"
+ },
+ "/resources/tag/Keyboard+Shortcuts": {
+  "path": "/resources/tag/Keyboard+Shortcuts",
+  "status": 200,
+  "html": "pages/resources_tag_Keyboard_Shortcuts.html",
+  "json": "pages/resources_tag_Keyboard_Shortcuts.json"
+ },
+ "/resources/tag/MAS90": {
+  "path": "/resources/tag/MAS90",
+  "status": 200,
+  "html": "pages/resources_tag_MAS90.html",
+  "json": "pages/resources_tag_MAS90.json"
+ },
+ "/resources/tag/New+Feature": {
+  "path": "/resources/tag/New+Feature",
+  "status": 200,
+  "html": "pages/resources_tag_New_Feature.html",
+  "json": "pages/resources_tag_New_Feature.json"
+ },
+ "/resources/tag/Credit+Cards": {
+  "path": "/resources/tag/Credit+Cards",
+  "status": 200,
+  "html": "pages/resources_tag_Credit_Cards.html",
+  "json": "pages/resources_tag_Credit_Cards.json"
+ },
+ "/resources/tag/Scripting": {
+  "path": "/resources/tag/Scripting",
+  "status": 200,
+  "html": "pages/resources_tag_Scripting.html",
+  "json": "pages/resources_tag_Scripting.json"
+ },
+ "/resources/tag/BR": {
+  "path": "/resources/tag/BR",
+  "status": 200,
+  "html": "pages/resources_tag_BR.html",
+  "json": "pages/resources_tag_BR.json"
+ },
+ "/resources/tag/Payroll": {
+  "path": "/resources/tag/Payroll",
+  "status": 200,
+  "html": "pages/resources_tag_Payroll.html",
+  "json": "pages/resources_tag_Payroll.json"
+ },
+ "/resources/tag/Sales+Orders": {
+  "path": "/resources/tag/Sales+Orders",
+  "status": 200,
+  "html": "pages/resources_tag_Sales_Orders.html",
+  "json": "pages/resources_tag_Sales_Orders.json"
+ },
+ "/resources/tag/Export": {
+  "path": "/resources/tag/Export",
+  "status": 200,
+  "html": "pages/resources_tag_Export.html",
+  "json": "pages/resources_tag_Export.json"
+ },
+ "/resources/tag/Shortcuts": {
+  "path": "/resources/tag/Shortcuts",
+  "status": 200,
+  "html": "pages/resources_tag_Shortcuts.html",
+  "json": "pages/resources_tag_Shortcuts.json"
+ },
+ "/resources/tag/Budget": {
+  "path": "/resources/tag/Budget",
+  "status": 200,
+  "html": "pages/resources_tag_Budget.html",
+  "json": "pages/resources_tag_Budget.json"
+ },
+ "/resources/tag/ASN": {
+  "path": "/resources/tag/ASN",
+  "status": 200,
+  "html": "pages/resources_tag_ASN.html",
+  "json": "pages/resources_tag_ASN.json"
+ },
+ "/resources/tag/MAS90%2F200": {
+  "path": "/resources/tag/MAS90%2F200",
+  "status": 200,
+  "html": "pages/resources_tag_MAS90_200.html",
+  "json": "pages/resources_tag_MAS90_200.json"
+ },
+ "/resources/tag/Bank+Rec": {
+  "path": "/resources/tag/Bank+Rec",
+  "status": 200,
+  "html": "pages/resources_tag_Bank_Rec.html",
+  "json": "pages/resources_tag_Bank_Rec.json"
+ },
+ "/resources/tag/Sage+100+ERP": {
+  "path": "/resources/tag/Sage+100+ERP",
+  "status": 200,
+  "html": "pages/resources_tag_Sage_100_ERP.html",
+  "json": "pages/resources_tag_Sage_100_ERP.json"
+ },
+ "/resources/tag/Sage+Links": {
+  "path": "/resources/tag/Sage+Links",
+  "status": 200,
+  "html": "pages/resources_tag_Sage_Links.html",
+  "json": "pages/resources_tag_Sage_Links.json"
+ },
+ "/resources/tag/Integration": {
+  "path": "/resources/tag/Integration",
+  "status": 200,
+  "html": "pages/resources_tag_Integration.html",
+  "json": "pages/resources_tag_Integration.json"
+ },
+ "/resources/tag/GL": {
+  "path": "/resources/tag/GL",
+  "status": 200,
+  "html": "pages/resources_tag_GL.html",
+  "json": "pages/resources_tag_GL.json"
+ },
+ "/resources/tag/ACH": {
+  "path": "/resources/tag/ACH",
+  "status": 200,
+  "html": "pages/resources_tag_ACH.html",
+  "json": "pages/resources_tag_ACH.json"
+ },
+ "/resources/tag/Sage+Insights+2009": {
+  "path": "/resources/tag/Sage+Insights+2009",
+  "status": 200,
+  "html": "pages/resources_tag_Sage_Insights_2009.html",
+  "json": "pages/resources_tag_Sage_Insights_2009.json"
+ },
+ "/resources/tag/Advanced+Shipment+Notification": {
+  "path": "/resources/tag/Advanced+Shipment+Notification",
+  "status": 200,
+  "html": "pages/resources_tag_Advanced_Shipment_Notification.html",
+  "json": "pages/resources_tag_Advanced_Shipment_Notification.json"
+ },
+ "/resources/tag/Preview": {
+  "path": "/resources/tag/Preview",
+  "status": 200,
+  "html": "pages/resources_tag_Preview.html",
+  "json": "pages/resources_tag_Preview.json"
+ },
+ "/resources/tag/Credits": {
+  "path": "/resources/tag/Credits",
+  "status": 200,
+  "html": "pages/resources_tag_Credits.html",
+  "json": "pages/resources_tag_Credits.json"
+ },
+ "/resources/tag/4-40+PU+3": {
+  "path": "/resources/tag/4-40+PU+3",
+  "status": 200,
+  "html": "pages/resources_tag_4-40_PU_3.html",
+  "json": "pages/resources_tag_4-40_PU_3.json"
+ },
+ "/resources/tag/General+Ledger": {
+  "path": "/resources/tag/General+Ledger",
+  "status": 200,
+  "html": "pages/resources_tag_General_Ledger.html",
+  "json": "pages/resources_tag_General_Ledger.json"
+ },
+ "/resources/tag/ALE": {
+  "path": "/resources/tag/ALE",
+  "status": 200,
+  "html": "pages/resources_tag_ALE.html",
+  "json": "pages/resources_tag_ALE.json"
+ },
+ "/resources/tag/Change+Password": {
+  "path": "/resources/tag/Change+Password",
+  "status": 200,
+  "html": "pages/resources_tag_Change_Password.html",
+  "json": "pages/resources_tag_Change_Password.json"
+ },
+ "/resources/tag/DSD+Business+Systems": {
+  "path": "/resources/tag/DSD+Business+Systems",
+  "status": 200,
+  "html": "pages/resources_tag_DSD_Business_Systems.html",
+  "json": "pages/resources_tag_DSD_Business_Systems.json"
+ },
+ "/resources/tag/Kissinger": {
+  "path": "/resources/tag/Kissinger",
+  "status": 200,
+  "html": "pages/resources_tag_Kissinger.html",
+  "json": "pages/resources_tag_Kissinger.json"
+ },
+ "/resources/tag/Tips": {
+  "path": "/resources/tag/Tips",
+  "status": 200,
+  "html": "pages/resources_tag_Tips.html",
+  "json": "pages/resources_tag_Tips.json"
+ },
+ "/testimonials": {
+  "path": "/testimonials",
+  "status": 200,
+  "html": "pages/testimonials.html",
+  "json": "pages/testimonials.json"
+ },
+ "/contact": {
+  "path": "/contact",
+  "status": 200,
+  "html": "pages/contact.html",
+  "json": "pages/contact.json"
+ },
+ "/": {
+  "path": "/",
+  "status": 200,
+  "html": "pages/home.html",
+  "json": "pages/home.json"
+ },
+ "/free-analysis": {
+  "path": "/free-analysis",
+  "status": 200,
+  "html": "pages/free-analysis.html",
+  "json": "pages/free-analysis.json"
+ },
+ "/this-page-does-not-exist-404-check": {
+  "path": "/this-page-does-not-exist-404-check",
+  "status": 404,
+  "html": "pages/this-page-does-not-exist-404-check.html"
+ },
+ "/resources?offset=1396313580389": {
+  "path": "/resources?offset=1396313580389",
+  "status": 200,
+  "html": "pages/resources__offset_1396313580389.html",
+  "json": "pages/resources__offset_1396313580389.json"
+ },
+ "/resources?offset=1364568974011&category=Sage+MAS+90%2F200": {
+  "path": "/resources?offset=1364568974011&category=Sage+MAS+90%2F200",
+  "status": 200,
+  "html": "pages/resources__offset_1364568974011_category_Sage_MAS_90_200.html",
+  "json": "pages/resources__offset_1364568974011_category_Sage_MAS_90_200.json"
+ },
+ "/resources?offset=1395985862814&category=Sage+100+ERP": {
+  "path": "/resources?offset=1395985862814&category=Sage+100+ERP",
+  "status": 200,
+  "html": "pages/resources__offset_1395985862814_category_Sage_100_ERP.html",
+  "json": "pages/resources__offset_1395985862814_category_Sage_100_ERP.json"
+ },
+ "/resources?offset=1297260000606&category=Uncategorized": {
+  "path": "/resources?offset=1297260000606&category=Uncategorized",
+  "status": 200,
+  "html": "pages/resources__offset_1297260000606_category_Uncategorized.html",
+  "json": "pages/resources__offset_1297260000606_category_Uncategorized.json"
+ },
+ "/resources?offset=1379080469375&category=Sage+MAS+90%2F200+Tips": {
+  "path": "/resources?offset=1379080469375&category=Sage+MAS+90%2F200+Tips",
+  "status": 200,
+  "html": "pages/resources__offset_1379080469375_category_Sage_MAS_90_200_Tips.html",
+  "json": "pages/resources__offset_1379080469375_category_Sage_MAS_90_200_Tips.json"
+ },
+ "/resources?offset=1386857817106&tag=MAS+90": {
+  "path": "/resources?offset=1386857817106&tag=MAS+90",
+  "status": 200,
+  "html": "pages/resources__offset_1386857817106_tag_MAS_90.html",
+  "json": "pages/resources__offset_1386857817106_tag_MAS_90.json"
+ },
+ "/resources?offset=1383924265931&tag=MAS+200": {
+  "path": "/resources?offset=1383924265931&tag=MAS+200",
+  "status": 200,
+  "html": "pages/resources__offset_1383924265931_tag_MAS_200.html",
+  "json": "pages/resources__offset_1383924265931_tag_MAS_200.json"
+ },
+ "/resources?offset=1383924265931&tag=Sage+100+ERP": {
+  "path": "/resources?offset=1383924265931&tag=Sage+100+ERP",
+  "status": 200,
+  "html": "pages/resources__offset_1383924265931_tag_Sage_100_ERP.html",
+  "json": "pages/resources__offset_1383924265931_tag_Sage_100_ERP.json"
+ },
+ "/resources?offset=1379080469375": {
+  "path": "/resources?offset=1379080469375",
+  "status": 200,
+  "html": "pages/resources__offset_1379080469375.html",
+  "json": "pages/resources__offset_1379080469375.json"
+ },
+ "/resources?offset=1272285231381&category=Sage+MAS+90%2F200": {
+  "path": "/resources?offset=1272285231381&category=Sage+MAS+90%2F200",
+  "status": 200,
+  "html": "pages/resources__offset_1272285231381_category_Sage_MAS_90_200.html",
+  "json": "pages/resources__offset_1272285231381_category_Sage_MAS_90_200.json"
+ },
+ "/resources?offset=1283482689441&category=Sage+MAS+90%2F200+Tips": {
+  "path": "/resources?offset=1283482689441&category=Sage+MAS+90%2F200+Tips",
+  "status": 200,
+  "html": "pages/resources__offset_1283482689441_category_Sage_MAS_90_200_Tips.html",
+  "json": "pages/resources__offset_1283482689441_category_Sage_MAS_90_200_Tips.json"
+ },
+ "/resources?offset=1287591000518&tag=MAS+90": {
+  "path": "/resources?offset=1287591000518&tag=MAS+90",
+  "status": 200,
+  "html": "pages/resources__offset_1287591000518_tag_MAS_90.html",
+  "json": "pages/resources__offset_1287591000518_tag_MAS_90.json"
+ },
+ "/resources?offset=1287591000518&tag=MAS+200": {
+  "path": "/resources?offset=1287591000518&tag=MAS+200",
+  "status": 200,
+  "html": "pages/resources__offset_1287591000518_tag_MAS_200.html",
+  "json": "pages/resources__offset_1287591000518_tag_MAS_200.json"
+ },
+ "/resources?offset=1364822413431": {
+  "path": "/resources?offset=1364822413431",
+  "status": 200,
+  "html": "pages/resources__offset_1364822413431.html",
+  "json": "pages/resources__offset_1364822413431.json"
+ },
+ "/resources?offset=1288280820831": {
+  "path": "/resources?offset=1288280820831",
+  "status": 200,
+  "html": "pages/resources__offset_1288280820831.html",
+  "json": "pages/resources__offset_1288280820831.json"
+ },
+ "/resources?offset=1283482689441": {
+  "path": "/resources?offset=1283482689441",
+  "status": 200,
+  "html": "pages/resources__offset_1283482689441.html",
+  "json": "pages/resources__offset_1283482689441.json"
+ }
+}

@@ -1,0 +1,4 @@
+# Old Squarespace addresses -> pages on the new site (permanent redirects).
+# Used by the Cloudflare test link. GitHub Pages (the live site) ignores this file; it serves home.html instead.
+/home      /   301
+/home/     /   301

@@ -1,0 +1,42 @@
+name: Publish to GitHub Pages (www.ddfcgi.com)
+
+# Publishes public/ to GitHub Pages, which serves www.ddfcgi.com. Every change to public/ on main goes live;
+# it can also be run by hand from the Actions tab.
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - public/**
+      - .github/workflows/pages.yml
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+      - name: Copy the site (without the Cloudflare-only files)
+        run: |
+          mkdir -p _pages-build
+          cp -r public/. _pages-build/
+          rm -f _pages-build/_headers _pages-build/_redirects
+          echo "www.ddfcgi.com" > _pages-build/CNAME
+          touch _pages-build/.nojekyll
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: _pages-build
+      - id: deployment
+        uses: actions/deploy-pages@v4

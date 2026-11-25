@@ -1,0 +1,18 @@
+/*
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: strict-origin-when-cross-origin
+  Permissions-Policy: camera=(), microphone=(), geolocation=()
+  X-Frame-Options: SAMEORIGIN
+
+/assets/fonts/*
+  Cache-Control: public, max-age=31536000, immutable
+
+/assets/img/*
+  Cache-Control: public, max-age=604800
+
+/assets/posts/*
+  Cache-Control: public, max-age=604800
+
+# The workers.dev test address and preview links stay out of search results
+https://:name.:subdomain.workers.dev/*
+  X-Robots-Tag: noindex

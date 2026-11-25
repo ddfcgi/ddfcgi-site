@@ -1,0 +1,23 @@
+<section class="page page--narrow">
+  <div class="page__inner">
+    <h2 class="text-center">Request a free consultation</h2>
+    <p class="text-center">We get it. Sage 100 and the other line of business software applications you run can get complicated. We want to help and the best way to do that is by analyzing your business and determining what the right next step should be. Fill out the quick information below and we will get started.</p>
+
+    <form class="form" id="consultation-form" action="[[form-endpoint]]" method="post" novalidate>
+      <fieldset>
+        <legend>Name</legend>
+        <div class="name-row">
+          <div class="sub"><label for="fname">First Name<span class="required">(required)</span></label><input type="text" id="fname" name="fname" autocomplete="given-name" required maxlength="100"></div>
+          <div class="sub"><label for="lname">Last Name<span class="required">(required)</span></label><input type="text" id="lname" name="lname" autocomplete="family-name" required maxlength="100"></div>
+        </div>
+      </fieldset>
+      <div class="field"><label for="email">Your Business Email Address<span class="required">(required)</span></label><input type="email" id="email" name="email" autocomplete="email" required maxlength="254"></div>
+      <div class="field"><label for="phone">Your Phone Number<span class="required">(required)</span></label><input type="tel" id="phone" name="phone" autocomplete="tel" required maxlength="50"></div>
+      <div class="field"><label for="company">Company Name<span class="required">(required)</span></label><input type="text" id="company" name="company" autocomplete="organization" required maxlength="200"></div>
+      <div class="hp" aria-hidden="true"><label for="website">Leave this empty</label><input type="text" id="website" name="website" tabindex="-1" autocomplete="off"></div>
+      <p class="form__error" role="alert" hidden></p>
+      <div class="form__actions"><button class="form__submit" type="submit">Request Consultation</button></div>
+    </form>
+    <div class="form-message" id="form-message" tabindex="-1" hidden><p>Thank you! Someone from DDF Consulting will reach out soon.</p></div>
+  </div>
+</section>
