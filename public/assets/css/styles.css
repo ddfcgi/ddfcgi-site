@@ -289,7 +289,8 @@ h3 { font-family: var(--rubik); font-size: 26px; line-height: 1.2; letter-spacin
   h2 { font-size: 40px; letter-spacing: 0.03em; }
   .home-hero { padding: 75px var(--side) 60px; min-height: 0; }
   .home-hero__grid, .home-diff__grid, .home-stop__grid { grid-template-columns: 1fr; }
-  .home-hero h1 { overflow-wrap: anywhere; }
+  /* Shrinks on phones so its longest word ("Software", about 4.7em wide) never splits mid-word. */
+  .home-hero h1 { font-size: min(104px, calc((100vw - 2 * var(--side)) / 4.8)); }
   .home-hero__image { text-align: center; margin-top: 40px; }
   .home-what { padding: 108px var(--side) 94px; }
   .home-what__grid { grid-template-columns: 1fr; }
